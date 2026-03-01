@@ -66,14 +66,16 @@ A fully functional and responsive 2048 game built with HTML, CSS, and JavaScript
 ## 📁 File Structure
 
 ```
-Cursor/
-├── index.html          # Main game file (HTML + CSS + JavaScript)
+2048/
+├── index.html          # Main game file
+└── style.css
+└── script.js
 └── README.md          # This documentation file
 ```
 
 ## 🚀 Getting Started
 
-1. **Download**: Save the `index.html` file to your computer
+1. **Download**: Save the `index.html , style.css and script.js` file to your computer
 2. **Open**: Double-click the file or open it in any web browser
 3. **Play**: Start playing immediately - no installation required!
 
